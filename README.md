@@ -3,7 +3,9 @@
 **`Digital Craftsman (Developer/Musician/Actor/Writer)`**
 
 ****
-I'm an Afro front-end developer passionate about code, beats, words, and the spotlight. I thrive on turning coffee into code. Whether it’s React, JavaScript, or a dash of HTML/CSS, I’m all about building sleek projects from the ground up and solving real-world problems. My commits? As frequent as my coffee refills. When I’m not pushing pixels, I’m dropping bars. Hip-hop is my heartbeat, and my rhymes flow smoother than a well-optimized API call. My GitHub repo? It’s my mixtape—fork, remix, and vibe with it. Words are my playground. From READMEs to scripts and novels, I craft narratives that captivate humans and compilers. Life’s a stage, and I’m the lead in my script. Whether it’s debugging or rehearsing lines, I bring my A-game.
+I'm an Afro **Full-Stack MOBILE & WEB Developer** passionate about code, beats, words, and the spotlight. I thrive on turning coffee into code. Whether it’s React/Native, JavaScript, or a dash of HTML/CSS, I’m all about building sleek projects from the ground up and solving real-world problems. My commits? As frequent as my coffee refills. When I’m not pushing pixels, I’m dropping bars. Hip-hop is my heartbeat, and my rhymes flow smoother than a well-optimized API call. My GitHub repo? It’s my mixtape—fork, remix, and i vibe with it. Words are my playground. From READMEs to scripts and novels, I craft narratives that captivate humans and compilers. Life’s a stage, and I’m the lead in my own script. Whether it’s debugging or rehearsing lines, I bring my A-game with.
+
+`Hit Me let's make something amazing, TOGETHER!`
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/robert.malala.16) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robertncube_)
